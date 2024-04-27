@@ -22,25 +22,25 @@ $CLASS_NAME_FOOTER = "footer__wrapper";
         <div class="prim-map-wrapper">
             <map name="prim-map">
                 <!-- chapel -->
-                <area shape="poly" coords="339,713,494,939,675,712,675,712,677,712" href="page/chapel.php" alt="森と水の教会" />
+                <area shape="rect" coords="555,1065,884,1316" href="page/chapel.php" alt="森と水の教会" />
                 <!-- primrose -->
-                <area shape="poly" coords="350,827,262,702,60,744,67,992,382,968,382,969,371,980" href="page/primrose.php" alt="プリムローズ" />
+                <area shape="poly" coords="495,1226,327,1034,59,1126,166,1487,534,1371,534,1371,534,1363" href="page/primrose.php" alt="プリムローズ" />
                 <!-- glamping terras -->
-                <area shape="rect" coords="716,577,1116,737" href="page/glamping.php" alt="グランピングテラス" />
+                <area shape="rect" coords="1071,858,1628,1095" href="page/glamping.php" alt="グランピングテラス" />
                 <!-- restaurant of forest -->
-                <area shape="poly" coords="1234,827,1083,1073,1383,1077,1370,892,1230,829,1230,833" href="page/restaurant.php" alt="森のレストラン" />
+                <area shape="poly" coords="1790,1213,1574,1416,1564,1575,2036,1563,2021,1209,2021,1209,2021,1207" href="page/restaurant.php" alt="森のレストラン" />
                 <!-- olif -->
-                <area shape="rect" coords="421,1374,679,1603" href="page/olif.php" alt="宿泊ヴィラ_オリフ" />
+                <area shape="rect" coords="617,2032,918,2272" href="page/olif.php" alt="宿泊ヴィラ_オリフ" />
                 <!-- florence -->
-                <area shape="rect" coords="888,1446,1207,1639" href="page/florence.php" alt="フローレンス" />
+                <area shape="rect" coords="1296,2126,1770,2397" href="page/florence.php" alt="フローレンス" />
                 <!-- garden -->
-                <area shape="rect" coords="253,301,707,429" href="page/garden.php" alt="浮島ホワイトガーデン/オープンガーデン" />
+                <area shape="rect" coords="427,483,1000,746" href="page/garden.php" alt="浮島ホワイトガーデン/オープンガーデン" />
                 <!-- guest house -->
-                <area shape="poly" coords="757,802,1027,802,958,1038,812,1032,812,1032,812,1032" href="page/guesthouse.php" alt="ゲストハウス" />
+                <area shape="poly" coords="1115,1187,1213,1529,1450,1477,1561,1163,1226,1161,1226,1161,1225,1164" href="page/guesthouse.php" alt="ゲストハウス" />
                 <!-- front waiting -->
-                <area shape="rect" coords="67,1050,447,1192" href="page/front.php" alt="受付・親族控室・ゲスト更衣室" />
+                <area shape="rect" coords="129,1546,611,1787" href="page/front.php" alt="受付・親族控室・ゲスト更衣室" />
             </map>
-            <img usemap="#prim-map" src="images/top/prim_map.jpg" alt="プリムローズガーデン_マップ">
+            <img usemap="#prim-map" src="images/top/prim_map_v1.1.jpg" alt="プリムローズガーデン_マップ">
         </div>
        <?php include_once('page/layout/footer.php'); ?>
     </div>
