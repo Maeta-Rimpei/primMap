@@ -1,0 +1,1 @@
+const swiper=new Swiper('.swiper',{direction:'horizontal',loop:!0,allowSlidePrev:!0,allowSlideNext:!0,allowTouchMove:!0,autoHeight:!0,slidesPerView:1,navigation:{nextEl:'.swiper-button-next',prevEl:'.swiper-button-prev',},})
