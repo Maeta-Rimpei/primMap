@@ -23,10 +23,16 @@ $CLASS_NAME_FOOTER = "page__footer";
                     <img src="../images/garden/garden02.jpg" alt="ガーデン_外">
                 </div>
                 <div class="swiper-slide">
-                    <img src="../images/garden/garden03.jpg" alt="ガーデン_ディナー">
+                    <img src="../images/garden/garden03.jpg" alt="ガーデン_全貌">
                 </div>
                 <div class="swiper-slide">
-                    <img src="../images/garden/garden04.jpg" alt="ガーデン_テーブル">
+                    <img src="../images/garden/garden04.jpg" alt="ガーデン_別アングル">
+                </div>
+                <div class="swiper-slide">
+                    <img src="../images/garden/garden05.jpg" alt="ガーデン_ディナー">
+                </div>
+                <div class="swiper-slide">
+                    <img src="../images/garden/garden06.jpg" alt="ガーデン_テーブル">
                 </div>
             </div>
             <div class="swiper-button-prev"></div>
