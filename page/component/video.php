@@ -4,5 +4,8 @@
 ?>
 
 <div class="video__wrapper">
-    <video controls width="100%" poster=<?php echo $POSTER_PATH; ?>  src=<?php echo $VIDEO_PATH; ?>></video>
+    <video width="100%" controls poster=<?php echo $POSTER_PATH; ?>>
+        <source src=<?php echo $VIDEO_PATH; ?> type="video/mp4">
+        <p>お使いのブラウザではご視聴いただけません。</p>
+    </video>
 </div>
