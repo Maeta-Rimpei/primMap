@@ -24,6 +24,9 @@ $CLASS_NAME_FOOTER = "page__no-video-footer";
                 <div class="swiper-slide">
                     <img src="../images/guest/guest03.jpg" alt="ゲストハウス_集合写真">
                 </div>
+                <div class="swiper-slide">
+                    <img src="../images/guest/guest04.jpg" alt="ゲストハウス_対応中">
+                </div>
             </div>
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
