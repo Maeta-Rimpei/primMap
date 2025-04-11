@@ -3,7 +3,6 @@
 /* ============================================ */
 /*                     base                     */
 /* ============================================ */
-
 body {
   font-family: "游明朝体", "Yu Mincho", "YuMincho", "Noto Serif JP", serif;
   background: #719D78;
@@ -25,6 +24,13 @@ img {
   width: clamp(0px, 400 / 1080 * 100vw, 400px);
   margin: 0 auto;
   padding: 15px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .header__logo {
+    width: clamp(0px, 315 / 375 * 100vw, 315px);
+    padding: 15px;
+  }
 }
 
 /* ============================================ */
